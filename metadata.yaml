@@ -5,6 +5,9 @@ contributor:
     agent_name: Thomson, Margaret R.
     gutenberg_agent_id: '41553'
     url: http://www.gutenberg.org/2009/agents/41553
+covers:
+- cover_type: archival
+  image_path: 68142-h/images/cover.jpg
 creator:
   author:
     agent_name: Brehm, Alfred Edmund
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9286
     wikipedia: https://en.wikipedia.org/wiki/J._Arthur_Thomson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68142#From-North-Pole-to-Equator-Studies-of-Wild-Life-and-Scenes-in-Many-Lands
 gutenberg_issued: '2022-05-21'
 identifiers:
   gutenberg: '68142'
